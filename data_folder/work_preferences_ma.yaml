@@ -1,0 +1,107 @@
+remote: true
+hybrid: true
+onsite: true
+
+experience_level:
+  internship: false
+  entry: false
+  associate: true
+  mid_senior_level: true
+  director: true
+  executive: true
+
+job_types:
+  full_time: true
+  contract: true
+  part_time: false
+  temporary: false
+  internship: false
+  other: false
+  volunteer: false
+
+date:
+  all_time: false
+  month: true
+  week: true
+  24_hours: true
+
+# M&A specific positions
+positions:
+  - "M&A Analyst"
+  - "M&A Associate" 
+  - "M&A Vice President"
+  - "M&A Director"
+  - "Mergers and Acquisitions"
+  - "Investment Banking Analyst"
+  - "Investment Banking Associate"
+  - "Corporate Development"
+  - "Business Development"
+  - "Private Equity Associate"
+  - "Corporate Finance"
+  - "Deal Advisory"
+  - "Transaction Services"
+  - "Financial Analyst - M&A"
+  - "Senior M&A Analyst"
+
+# Geographic focus: Rockville Centre, NY and NYC area (25-mile radius)
+locations:
+  - "New York, NY"
+  - "Manhattan, NY"
+  - "Rockville Centre, NY"
+  - "Long Island, NY"
+  - "Brooklyn, NY"
+  - "Queens, NY"
+  - "Bronx, NY"
+  - "Staten Island, NY"
+  - "Jersey City, NJ"
+  - "Hoboken, NJ"
+  - "Newark, NJ"
+  - "Stamford, CT"
+  - "White Plains, NY"
+  - "Garden City, NY"
+  - "Hempstead, NY"
+
+apply_once_at_company: false  # Allow multiple applications for different M&A roles
+
+distance: 25  # 25-mile radius from Rockville Centre
+
+# Target M&A companies and avoid non-relevant firms
+company_blacklist:
+  - "MLM"
+  - "Multi-level marketing"
+  - "Insurance sales"
+  - "Real estate sales"
+  - "Retail"
+  - "Restaurant"
+  - "Call center"
+
+# M&A specific keywords to prioritize
+title_keywords:
+  - "M&A"
+  - "Mergers"
+  - "Acquisitions" 
+  - "Investment Banking"
+  - "Corporate Finance"
+  - "Private Equity"
+  - "Deal"
+  - "Transaction"
+  - "Due Diligence"
+  - "Valuation"
+  - "Financial Modeling"
+  - "LBO"
+  - "Leveraged Buyout"
+
+# Avoid non-M&A finance roles
+title_blacklist:
+  - "Retail Banking"
+  - "Personal Banking"
+  - "Teller"
+  - "Customer Service"
+  - "Sales Representative"
+  - "Account Manager"
+  - "Loan Officer"
+  - "Insurance"
+  - "Real Estate"
+
+location_blacklist:
+  - "Remote only"  # Prefer hybrid/onsite for M&A networking

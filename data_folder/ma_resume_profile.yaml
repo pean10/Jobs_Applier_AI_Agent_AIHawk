@@ -1,0 +1,136 @@
+personal_information:
+  name: "[Your Name]"
+  surname: "[Your Surname]"
+  date_of_birth: "[Your Date of Birth]"
+  country: "United States"
+  city: "Rockville Centre"
+  address: "[Your Address]"
+  zip_code: "[Your ZIP Code]"
+  phone_prefix: "+1"
+  phone: "[Your Phone Number]"
+  email: "[Your Email Address]"
+  github: "[Your GitHub Profile URL]"
+  linkedin: "[Your LinkedIn Profile URL]"
+
+education_details:
+  - education_level: "Master of Business Administration (MBA)"
+    institution: "[Your University]"
+    field_of_study: "Finance/Corporate Finance"
+    final_evaluation_grade: "[Your GPA]"
+    start_date: "[Start Date]"
+    year_of_completion: "[Year of Completion]"
+    exam:
+      Corporate Finance: "[Grade]"
+      Investment Banking: "[Grade]"
+      Financial Modeling: "[Grade]"
+      Mergers & Acquisitions: "[Grade]"
+      Valuation Methods: "[Grade]"
+      Private Equity: "[Grade]"
+
+experience_details:
+  - position: "M&A Analyst"
+    company: "[Previous Company]"
+    employment_period: "[Employment Period]"
+    location: "New York, NY"
+    industry: "Investment Banking"
+    key_responsibilities:
+      - responsibility_1: "Conducted comprehensive financial analysis and due diligence for M&A transactions valued at $50M-$2B"
+      - responsibility_2: "Built complex financial models including DCF, LBO, and comparable company analyses"
+      - responsibility_3: "Prepared pitch books, management presentations, and transaction materials for client meetings"
+      - responsibility_4: "Supported deal execution from initial client contact through closing, managing data rooms and coordinating with legal teams"
+    skills_acquired:
+      - "Financial Modeling"
+      - "Valuation Analysis"
+      - "Due Diligence"
+      - "Excel/VBA"
+      - "Bloomberg Terminal"
+      - "PowerPoint"
+      - "Deal Structuring"
+
+  - position: "Corporate Finance Analyst"
+    company: "[Previous Company]"
+    employment_period: "[Employment Period]"
+    location: "New York, NY"
+    industry: "Corporate Finance"
+    key_responsibilities:
+      - responsibility_1: "Analyzed potential acquisition targets and strategic partnerships for Fortune 500 company"
+      - responsibility_2: "Developed financial models to evaluate synergies and integration costs for M&A opportunities"
+      - responsibility_3: "Prepared board presentations and investment committee materials for strategic initiatives"
+    skills_acquired:
+      - "Strategic Analysis"
+      - "Synergy Modeling"
+      - "Board Presentations"
+      - "Integration Planning"
+
+projects:
+  - name: "M&A Case Study Portfolio"
+    description: "Comprehensive analysis of major M&A transactions including Disney-Fox, CVS-Aetna, and AT&T-Time Warner, focusing on deal rationale, valuation methodologies, and post-merger performance"
+    link: "[Portfolio Link]"
+
+  - name: "LBO Financial Model"
+    description: "Built detailed leveraged buyout model with sensitivity analysis, debt sizing, and returns calculations for private equity investment scenarios"
+    link: "[Model Link]"
+
+achievements:
+  - name: "CFA Charterholder"
+    description: "Chartered Financial Analyst designation demonstrating expertise in investment analysis and portfolio management"
+  - name: "Top Performer - M&A Team"
+    description: "Recognized as top analyst on M&A team for exceptional deal execution and client service"
+
+certifications:
+  - name: "Chartered Financial Analyst (CFA)"
+    description: "Professional certification in investment analysis, portfolio management, and financial modeling"
+  - name: "Financial Risk Manager (FRM)"
+    description: "Certification in risk management and financial analysis"
+
+languages:
+  - language: "English"
+    proficiency: "Native"
+  - language: "Spanish"
+    proficiency: "Intermediate"
+
+interests:
+  - "M&A Market Analysis"
+  - "Private Equity Trends"
+  - "Financial Technology"
+  - "Corporate Strategy"
+  - "Investment Research"
+
+availability:
+  notice_period: "2 weeks"
+
+salary_expectations:
+  salary_range_usd: "120000 - 180000"
+
+self_identification:
+  gender: "[Gender]"
+  pronouns: "[Pronouns]"
+  veteran: "No"
+  disability: "No"
+  ethnicity: "[Ethnicity]"
+
+legal_authorization:
+  eu_work_authorization: "No"
+  us_work_authorization: "Yes"
+  requires_us_visa: "No"
+  requires_us_sponsorship: "No"
+  requires_eu_visa: "Yes"
+  legally_allowed_to_work_in_eu: "No"
+  legally_allowed_to_work_in_us: "Yes"
+  requires_eu_sponsorship: "Yes"
+  canada_work_authorization: "No"
+  requires_canada_visa: "Yes"
+  legally_allowed_to_work_in_canada: "No"
+  requires_canada_sponsorship: "Yes"
+  uk_work_authorization: "No"
+  requires_uk_visa: "Yes"
+  legally_allowed_to_work_in_uk: "No"
+  requires_uk_sponsorship: "Yes"
+
+work_preferences:
+  remote_work: "Yes"
+  in_person_work: "Yes"
+  open_to_relocation: "Yes"
+  willing_to_complete_assessments: "Yes"
+  willing_to_undergo_drug_tests: "Yes"
+  willing_to_undergo_background_checks: "Yes"
